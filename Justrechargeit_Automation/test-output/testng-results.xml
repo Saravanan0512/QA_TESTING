@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T07:46:49 IST" name="Default suite" finished-at="2022-07-26T07:47:08 IST" duration-ms="18425">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T07:46:49 IST" name="Default test" finished-at="2022-07-26T07:47:08 IST" duration-ms="18425">
+      <class name="com.testscenarios.TC_001AccountCreation">
+        <test-method signature="TC_001AccounTCreation()[pri:0, instance:com.testscenarios.TC_001AccountCreation@5ffead27]" started-at="2022-07-26T07:46:49 IST" name="TC_001AccounTCreation" finished-at="2022-07-26T07:47:07 IST" duration-ms="18020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001AccounTCreation -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.testscenarios.TC_001AccountCreation@5ffead27]" started-at="2022-07-26T07:47:07 IST" name="afterMethod" finished-at="2022-07-26T07:47:07 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testscenarios.TC_001AccountCreation@5ffead27]" started-at="2022-07-26T07:47:07 IST" name="afterClass" finished-at="2022-07-26T07:47:08 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testscenarios.TC_001AccountCreation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

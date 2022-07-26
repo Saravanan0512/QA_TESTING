@@ -25,7 +25,7 @@ import org.testng.annotations.AfterClass;
 public class TC_001AccountCreation extends CommonFunctions {
 	String browserName;
 	Locators ls = new Locators();
-
+//sam
 	@BeforeClass
 
 	public void browserLaunch(@Optional("chrome") String browserName) {
